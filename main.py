@@ -26,6 +26,7 @@ ICON_TYPES = {
 }
 
 
+
 class Shortcut:
     def __init__(self, name, position, pidl, icon_type="неопознано", tags=None,
                  description="", custom_color=None, importance=1):
