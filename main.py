@@ -166,7 +166,7 @@ class DesktopIconManager:
             items_len = self.folder_view.ItemCount(shellcon.SVGIO_ALLVIEW)
             for i in range(items_len):
                 item = self.folder_view.Item(i)
-                name = self.get_item_name(item)
+                name = self.get_item_name(item, i)  # передаем индекс
                 position = self.folder_view.GetItemPosition(item)
                 items_data.append({
                     'index': i,
@@ -179,13 +179,23 @@ class DesktopIconManager:
 
         return items_data
 
-    def get_item_name(self, item):
+    def get_item_name(self, item, index=None):
         """Получить имя элемента"""
         try:
-            desktop_folder = shell.SHGetDesktopFolder()
-            return desktop_folder.GetDisplayNameOf(item, shellcon.SHGDN_NORMAL)
-        except:
-            return f"Item_{hash(item)}"
+            shell_app = wcomcli.Dispatch("Shell.Application")
+            desktop = shell_app.NameSpace(0)  # Desktop
+
+            if index is not None and index < len(list(desktop.Items())):
+                return list(desktop.Items())[index].Name
+            else:
+                # Перебор всех элементов
+                for i, shell_item in enumerate(desktop.Items()):
+                    if i == index:
+                        return shell_item.Name
+        except Exception as e:
+            print(f"Error getting name for index {index}: {e}")
+
+        return f"Item_{index if index is not None else hash(item)}"
 
     def create_layout(self, name, description=""):
         """Создать новый layout"""

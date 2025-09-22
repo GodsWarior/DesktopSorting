@@ -1,0 +1,579 @@
+{
+  "name": "asd",
+  "description": "",
+  "created": "2025-09-22T15:34:18.987659",
+  "modified": "2025-09-22T15:34:21.463140",
+  "version": "1.0",
+  "shortcuts": [
+    {
+      "name": "Этот компьютер",
+      "position": [
+        14,
+        2
+      ],
+      "pidl": "b'\\x1fx@\\xf0_d\\x81P\\x1b\\x10\\x9f\\x08\\x00\\xaa\\x00/\\x95N'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Корзина",
+      "position": [
+        14,
+        102
+      ],
+      "pidl": "b'2\\x00\\x81\\x05\\x00\\x00wYo_ \\x00OPERAG~1.LNK\\x00\\x00Z\\x00\\t\\x00\\x04\\x00\\xef\\xbewYo_6[\\xaaU.\\x00\\x00\\x00\\xfbE\\x03\\x00\\x00\\x00O\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x9ee\\xc2\\x00\\x11\\x04@\\x040\\x04C\\x047\\x045\\x04@\\x04 \\x00O\\x00p\\x00e\\x00r\\x00a\\x00 \\x00G\\x00X\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Панель управления",
+      "position": [
+        14,
+        202
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00\\x95Z\\xf3t\\x10\\x00TORBRO~1\\x00\\x00H\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x95Z\\xeat5[4\\xae.\\x00\\x00\\x00\"\\x0c\\x03\\x00\\x00\\x00g\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xde\\xfac\\x00T\\x00o\\x00r\\x00 \\x00B\\x00r\\x00o\\x00w\\x00s\\x00e\\x00r\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "dan kazakov",
+      "position": [
+        14,
+        302
+      ],
+      "pidl": "b':\\x00A\\x03\\x00\\x00xY\\x0eM \\x00PYCHAR~1.LNK\\x00\\x00z\\x00\\t\\x00\\x04\\x00\\xef\\xbexY\\x0eM6[\\xaaU.\\x00\\x00\\x00\\xc7\\xd3\\x03\\x00\\x00\\x00\\x17\\x00\\x00\\x00\\x00\\x00\\xa0\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00<x\\x1b\\x01P\\x00y\\x00C\\x00h\\x00a\\x00r\\x00m\\x00 \\x00C\\x00o\\x00m\\x00m\\x00u\\x00n\\x00i\\x00t\\x00y\\x00 \\x00E\\x00d\\x00i\\x00t\\x00i\\x00o\\x00n\\x00 \\x002\\x000\\x002\\x004\\x00.\\x003\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Библиотеки",
+      "position": [
+        14,
+        402
+      ],
+      "pidl": "b'2\\x00\\x0e\\x04\\x00\\x00xY\\xbb\\x99 \\x00Telegram.lnk\\x00\\x00J\\x00\\t\\x00\\x04\\x00\\xef\\xbexY\\xbb\\x996[\\xaaU.\\x00\\x00\\x00\\xc7)\\x02\\x00\\x00\\x00\\x8a\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00`\\xd5\\x1b\\x01T\\x00e\\x00l\\x00e\\x00g\\x00r\\x00a\\x00m\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Музыка",
+      "position": [
+        14,
+        502
+      ],
+      "pidl": "b'2\\x00\\x86\\x03\\x00\\x00xY\\xf6R \\x00TORREN~1.LNK\\x00\\x00J\\x00\\t\\x00\\x04\\x00\\xef\\xbexY\\xf6R6[\\xaaU.\\x00\\x00\\x00R\\x13\\x02\\x00\\x00\\x00e\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x8d\\xfb\\xb7\\x00\\xb5\\x00T\\x00o\\x00r\\x00r\\x00e\\x00n\\x00t\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Загрузки",
+      "position": [
+        14,
+        602
+      ],
+      "pidl": "b':\\x00\\xe4\\x06\\x00\\x00yY\\x1dN \\x00GITBAS~1.LNK\\x00\\x00J\\x00\\t\\x00\\x04\\x00\\xef\\xbeyY\\x1dN6[\\xaaU.\\x00\\x00\\x00\\x11;\\x02\\x00\\x00\\x00}\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xea\\xf1\\r\\x00G\\x00i\\x00t\\x00 \\x00B\\x00a\\x00s\\x00h\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Изображения",
+      "position": [
+        14,
+        702
+      ],
+      "pidl": "b':\\x00\\xa8\\x02\\x00\\x00\\xdaZ\\xd1\\x80 \\x00Steam.lnk\\x00D\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xdaZ\\xd1\\x806[\\xaaU.\\x00\\x00\\x00\\x11\\xac\\x00\\x00\\x00\\x00=\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00n\\xcb\\x18\\x01S\\x00t\\x00e\\x00a\\x00m\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Панель управления",
+      "position": [
+        14,
+        802
+      ],
+      "pidl": "b':\\x00\\r\\x04\\x00\\x00*[\\x97\\\\ \\x00RADMIN~1.LNK\\x00\\x00N\\x00\\t\\x00\\x04\\x00\\xef\\xbe*[\\x97\\\\6[\\xaaU.\\x00\\x00\\x00\\xb4\\xe0\\x00\\x00\\x00\\x00]\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00nM\\xb1\\x00R\\x00a\\x00d\\x00m\\x00i\\x00n\\x00 \\x00V\\x00P\\x00N\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Видео",
+      "position": [
+        14,
+        902
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x003[n-0\\x00dism\\x00\\x00:\\x00\\t\\x00\\x04\\x00\\xef\\xbewY#F6[KX.\\x00\\x00\\x00zL\\x00\\x00\\x00\\x00\\xd2\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd3M\\xbe\\x00d\\x00i\\x00s\\x00m\\x00\\x00\\x00\\x14\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Документы",
+      "position": [
+        90,
+        2
+      ],
+      "pidl": "b'2\\x00\\x18z \\x07\\xaeZ\\xfc1 \\x00FIGMAS~1.EXE\\x00\\x00N\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xaeZ\\x9515[4\\xae.\\x00\\x00\\x00\\xb0\\xfd\\x0c\\x00\\x00\\x00\\x0b\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xbe)\\xa5\\x00F\\x00i\\x00g\\x00m\\x00a\\x00S\\x00e\\x00t\\x00u\\x00p\\x00.\\x00e\\x00x\\x00e\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Linux",
+      "position": [
+        90,
+        102
+      ],
+      "pidl": "b':\\x00\\xe2\\x08\\x00\\x00\\'[\\xc6S \\x00KASPER~1.LNK\\x00\\x00L\\x00\\t\\x00\\x04\\x00\\xef\\xbewY\"j6[\\xaaU.\\x00\\x00\\x00\\x0c\\x06\\x01\\x00\\x00\\x00\\xa4\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00R\\x12_\\x00K\\x00a\\x00s\\x00p\\x00e\\x00r\\x00s\\x00k\\x00y\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Рабочий стол",
+      "position": [
+        90,
+        202
+      ],
+      "pidl": "b'2\\x00\\xc9\\x08\\x00\\x00/[A1 \\x00Discord.lnk\\x00H\\x00\\t\\x00\\x04\\x00\\xef\\xbexY\\xcd\\x996[\\xaaU.\\x00\\x00\\x005,\\x02\\x00\\x00\\x00!\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00~o\\x9a\\x00D\\x00i\\x00s\\x00c\\x00o\\x00r\\x00d\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1a\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Галерея",
+      "position": [
+        90,
+        302
+      ],
+      "pidl": "b'2\\x00\\xd9\\x06\\x00\\x00yY\\xf2N  VISUAL~1.LNK\\x00\\x00^\\x00\\t\\x00\\x04\\x00\\xef\\xbeyY\\xf2N6[\\xaaU.\\x00\\x00\\x00\\xc8\\xa7\\x03\\x00\\x00\\x00*\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xc6H9\\x00V\\x00i\\x00s\\x00u\\x00a\\x00l\\x00 \\x00S\\x00t\\x00u\\x00d\\x00i\\x00o\\x00 \\x002\\x000\\x002\\x002\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Сеть",
+      "position": [
+        90,
+        402
+      ],
+      "pidl": "b'2\\x00\\x9d\\x07\\x00\\x006[\\x0b[ \\x00THUNDE~1.LNK\\x00\\x00j\\x00\\t\\x00\\x04\\x00\\xef\\xbe~Z\\x8fi6[\\x0b[.\\x00\\x00\\x00\\xe9E\\x07\\x00\\x00\\x00(\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x1f\\xa6\\xbe\\x00T\\x00h\\x00u\\x00n\\x00d\\x00e\\x00r\\x00s\\x00t\\x00o\\x00r\\x00e\\x00 \\x00M\\x00o\\x00d\\x00 \\x00M\\x00a\\x00n\\x00a\\x00g\\x00e\\x00r\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Главная",
+      "position": [
+        90,
+        502
+      ],
+      "pidl": "b'2\\x00~\\x05\\x00\\x00\\x89Z\\x1d= \\x00VISUAL~2.LNK\\x00\\x00^\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x89Z\\x1d=6[\\xaaU.\\x00\\x00\\x00\\xa0p\\t\\x00\\x00\\x00\\x11\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00-l$\\x01V\\x00i\\x00s\\x00u\\x00a\\x00l\\x00 \\x00S\\x00t\\x00u\\x00d\\x00i\\x00o\\x00 \\x00C\\x00o\\x00d\\x00e\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "ADrive ПДД Тесты 2023",
+      "position": [
+        90,
+        602
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00\\xcbZl~\\x10\\x00dirve\\x00<\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xcbZfz3[\\xedy.\\x00\\x00\\x00\\x17\\xfa\\x01\\x00\\x00\\x00(\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd0\\xfe\\x0e\\x01d\\x00i\\x00r\\x00v\\x00e\\x00\\x00\\x00\\x14\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "backcloud",
+      "position": [
+        90,
+        702
+      ],
+      "pidl": "b':\\x00\\xc8\\x02\\x00\\x00\\x1f[\\t^ \\x00UltraISO.lnk\\x00\\x00J\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x1f[\\t^6[\\xaaU.\\x00\\x00\\x00Y:\\x01\\x00\\x00\\x00\\x11\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00w(\\x13\\x00U\\x00l\\x00t\\x00r\\x00a\\x00I\\x00S\\x00O\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Counter-Strike 2",
+      "position": [
+        90,
+        802
+      ],
+      "pidl": "b'2\\x00\\x9ai\\xc2\\x00%[Y4 \\x00IDEAIC~1.OPD\\x00\\x00n\\x00\\t\\x00\\x04\\x00\\xef\\xbe%[A42[/p.\\x00\\x00\\x00P\\xb8\\x00\\x00\\x00\\x00\\xac\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00b\\xb0\\x02\\x01i\\x00d\\x00e\\x00a\\x00I\\x00C\\x00-\\x002\\x000\\x002\\x005\\x00.\\x002\\x00.\\x001\\x00.\\x00e\\x00x\\x00e\\x00.\\x00o\\x00p\\x00d\\x00o\\x00w\\x00n\\x00l\\x00o\\x00a\\x00d\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "dirve",
+      "position": [
+        90,
+        902
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00\\x7fZ\\xc6\\x930\\x00BACKCL~1\\x00\\x00D\\x00\\t\\x00\\x04\\x00\\xef\\xbewY\\x1cF6[KX.\\x00\\x00\\x00UK\\x00\\x00\\x00\\x00\\x19\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00cp\\x06\\x01b\\x00a\\x00c\\x00k\\x00c\\x00l\\x00o\\x00u\\x00d\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Discord",
+      "position": [
+        166,
+        2
+      ],
+      "pidl": "b':\\x00\\x19\\x04\\x00\\x00mZ:\\x8a \\x00Firefox.lnk\\x00H\\x00\\t\\x00\\x04\\x00\\xef\\xbewY,a6[\\xaaU.\\x00\\x00\\x00\\xffv\\x03\\x00\\x00\\x00\\x12\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x95\\xcc\\x02\\x00F\\x00i\\x00r\\x00e\\x00f\\x00o\\x00x\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1a\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "dism",
+      "position": [
+        166,
+        102
+      ],
+      "pidl": "b'2\\x00\\x82\\x07\\x00\\x00\\xd3Z\\xb3\\x80 \\x00GAMEEX~1.LNK\\x00\\x00Z\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xd3Z\\xb6\\x806[\\xaaU.\\x00\\x00\\x00\\xad\\x00\\x00\\x00\\x00\\x00\\xb2\\x83\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00+ m\\x00G\\x00a\\x00m\\x00e\\x00.\\x00e\\x00x\\x00e\\x00 \\x00\\x14  \\x00O\\x04@\\x04;\\x04K\\x04:\\x04.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Exam_2025.pdf",
+      "position": [
+        166,
+        202
+      ],
+      "pidl": "b'2\\x00\\x97\\x07\\x00\\x00\\x98Y\\x9b\\x92 \\x00TLAUNC~1.LNK\\x00\\x00L\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x98Y\\x9b\\x926[\\xaaU.\\x00\\x00\\x00\\x18\\x0c\\x02\\x00\\x00\\x00=\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xca5\\x95\\x00T\\x00L\\x00a\\x00u\\x00n\\x00c\\x00h\\x00e\\x00r\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "FigmaSetup.exe",
+      "position": [
+        166,
+        302
+      ],
+      "pidl": "b'2\\x00\\xc2\\x13\\x00\\x00RZ7@ \\x00SSMSEX~1.LNK\\x00\\x00Z\\x00\\t\\x00\\x04\\x00\\xef\\xbeRZ7@6[\\xaaU.\\x00\\x00\\x00c\\xeb\\x0b\\x00\\x00\\x00\\x0c\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x1b\\x87\\xc0\\x00S\\x00s\\x00m\\x00s\\x00.\\x00e\\x00x\\x00e\\x00 \\x00\\x14  \\x00O\\x04@\\x04;\\x04K\\x04:\\x04.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Game.exe — ярлык",
+      "position": [
+        166,
+        402
+      ],
+      "pidl": "b'2\\x00U\\x03\\x00\\x00\\x95Z\\xf6t \\x00TORBRO~1.LNK\\x00\\x00P\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x95Z\\xf6t6[\\xaaU.\\x00\\x00\\x00\\x07\"\\x06\\x00\\x00\\x00?\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xb6\\x89{\\x00T\\x00o\\x00r\\x00 \\x00B\\x00r\\x00o\\x00w\\x00s\\x00e\\x00r\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "ideaIC-2025.2.1.exe.opdownload",
+      "position": [
+        166,
+        502
+      ],
+      "pidl": "b'2\\x00\\x01\\xab\\x03\\x00\\xc9ZEm \\x00EXAM_2~1.PDF\\x00\\x00L\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xc9ZEm2[.p.\\x00\\x00\\x00K\\x08\\x02\\x00\\x00\\x00@\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00A\\xbd\\x15\\x00E\\x00x\\x00a\\x00m\\x00_\\x002\\x000\\x002\\x005\\x00.\\x00p\\x00d\\x00f\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "laba1.eap",
+      "position": [
+        166,
+        602
+      ],
+      "pidl": "b':\\x00t\\x04\\x00\\x00([\\xa5] \\x00ENTERP~1.LNK\\x00\\x00b\\x00\\t\\x00\\x04\\x00\\xef\\xbe([\\xa5]6[\\xaaU.\\x00\\x00\\x00\\xcb\\x07\\x05\\x00\\x00\\x00\\x11\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf1\\x0e$\\x01E\\x00n\\x00t\\x00e\\x00r\\x00p\\x00r\\x00i\\x00s\\x00e\\x00 \\x00A\\x00r\\x00c\\x00h\\x00i\\x00t\\x00e\\x00c\\x00t\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "labapolina.eap",
+      "position": [
+        166,
+        702
+      ],
+      "pidl": "b'2\\x00\\x00\\xd0\\x19\\x00/[\\xb16 \\x00laba1.eap\\x00D\\x00\\t\\x00\\x04\\x00\\xef\\xbe([Ld2[/p.\\x00\\x00\\x00\\x1e\\xd1\\x01\\x00\\x00\\x000\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\xd8Z\\x00l\\x00a\\x00b\\x00a\\x001\\x00.\\x00e\\x00a\\x00p\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "minecraft",
+      "position": [
+        166,
+        802
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00+[\\x0e?\\x10\\x00UML_IM~1\\x00\\x00F\\x00\\t\\x00\\x04\\x00\\xef\\xbe([I_3[\\xedy.\\x00\\x00\\x00\\xbb\\xea\\x00\\x00\\x00\\x00\\x85\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xe22\\x17\\x00U\\x00M\\x00L\\x00_\\x00I\\x00m\\x00p\\x00o\\x00r\\x00t\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "No Im not a Human",
+      "position": [
+        166,
+        902
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00wYyF0\\x00MINECR~1\\x00\\x00D\\x00\\t\\x00\\x04\\x00\\xef\\xbewY#F6[uL.\\x00\\x00\\x00\\xa6L\\x00\\x00\\x00\\x00\\xd7\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x08\\x13\\r\\x01m\\x00i\\x00n\\x00e\\x00c\\x00r\\x00a\\x00f\\x00t\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Ssms.exe — ярлык",
+      "position": [
+        242,
+        2
+      ],
+      "pidl": "b'2\\x008\\x07\\x00\\x00\\xa1Z95 \\x00ADRIVE~1.LNK\\x00\\x00d\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xa1Z956[\\xaaU.\\x00\\x00\\x00C\\xcb\\x02\\x00\\x00\\x00s\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xfe)\\xba\\x00A\\x00D\\x00r\\x00i\\x00v\\x00e\\x00 \\x00\\x1f\\x04\\x14\\x04\\x14\\x04 \\x00\"\\x045\\x04A\\x04B\\x04K\\x04 \\x002\\x000\\x002\\x003\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "study",
+      "position": [
+        242,
+        102
+      ],
+      "pidl": "b'2\\x00t\\x03\\x00\\x00\\x8bZ\\xf5z \\x00-2025~1.LNK\\x00r\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\x8bZ\\xf5z6[\\xaaU.\\x00\\x00\\x00\\x00\\x9a\\x07\\x00\\x00\\x00U\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x16\\x04\\xb1\\x00#\\x04G\\x045\\x041\\x04=\\x040\\x04O\\x04 \\x00?\\x04@\\x04>\\x043\\x04@\\x040\\x04<\\x04<\\x040\\x04 \\x00\\x1f\\x04\\x14\\x04\\x14\\x04 \\x00-\\x00 \\x002\\x000\\x002\\x005\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1a\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Telegram",
+      "position": [
+        242,
+        202
+      ],
+      "pidl": "b'2\\x00\\xd1\\x00\\x00\\x00\\xdaZ1\\x81 \\x00COUNTE~1.URL\\x00\\x00Z\\x00\\t\\x00\\x04\\x00\\xef\\xbe\\xdaZ1\\x816[\\xaaU.\\x00\\x00\\x00\\xb5\\xb0\\x00\\x00\\x00\\x00\\x12\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xb4n|\\x00C\\x00o\\x00u\\x00n\\x00t\\x00e\\x00r\\x00-\\x00S\\x00t\\x00r\\x00i\\x00k\\x00e\\x00 \\x002\\x00.\\x00u\\x00r\\x00l\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "test.bat",
+      "position": [
+        242,
+        302
+      ],
+      "pidl": "b'2\\x00\\x00\\xd0\\x19\\x00+[w@ \\x00LABAPO~1.EAP\\x00\\x00N\\x00\\t\\x00\\x04\\x00\\xef\\xbe+[\\x16=2[/p.\\x00\\x00\\x00/\\x07\\x01\\x00\\x00\\x00\\xb4\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd5\\xc8\\xdc\\x00l\\x00a\\x00b\\x00a\\x00p\\x00o\\x00l\\x00i\\x00n\\x00a\\x00.\\x00e\\x00a\\x00p\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Thunderstore Mod Manager",
+      "position": [
+        242,
+        402
+      ],
+      "pidl": "b'2\\x00\\r\\x00\\x00\\x001[+R \\x00test.bat\\x00\\x00B\\x00\\t\\x00\\x04\\x00\\xef\\xbe1[%R2[/p.\\x00\\x00\\x00\\xf6\\xbe\\x00\\x00\\x00\\x00B\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xbfY\\x1c\\x01t\\x00e\\x00s\\x00t\\x00.\\x00b\\x00a\\x00t\\x00\\x00\\x00\\x18\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "TLauncher",
+      "position": [
+        242,
+        902
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00![|\\xab0\\x00study\\x00<\\x00\\t\\x00\\x04\\x00\\xef\\xbewYYK6[KX.\\x00\\x00\\x00\\x0c\\xd9\\x02\\x00\\x00\\x00\\r\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x08\\\\\\x01\\x01s\\x00t\\x00u\\x00d\\x00y\\x00\\x00\\x00\\x14\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Tor Browser",
+      "position": [
+        318,
+        2
+      ],
+      "pidl": "b'2\\x00\\xf8\\x02\\x00\\x001[qW \\x00NOIMNO~1.LNK\\x00\\x00\\\\\\x00\\t\\x00\\x04\\x00\\xef\\xbe1[qW6[\\xaaU.\\x00\\x00\\x00\"#\\x05\\x00\\x00\\x00e\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00.\\x98\\x9b\\x00N\\x00o\\x00 \\x00I\\x00m\\x00 \\x00n\\x00o\\x00t\\x00 \\x00a\\x00 \\x00H\\x00u\\x00m\\x00a\\x00n\\x00.\\x00l\\x00n\\x00k\\x00\\x00\\x00\\x1c\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    },
+    {
+      "name": "Tor Browser",
+      "position": [
+        318,
+        902
+      ],
+      "pidl": "b'1\\x00\\x00\\x00\\x00\\x00wY|K0\\x00wlopper\\x00@\\x00\\t\\x00\\x04\\x00\\xef\\xbewYzK6[RL.\\x00\\x00\\x00\\x15\\xed\\x02\\x00\\x00\\x00U\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xc6H\\xaa\\x00w\\x00l\\x00o\\x00p\\x00p\\x00e\\x00r\\x00\\x00\\x00\\x16\\x00'",
+      "icon_type": "неопознано",
+      "tags": [],
+      "description": "",
+      "custom_color": null,
+      "importance": 1,
+      "created": "2025-09-22T15:34:21.463140",
+      "modified": "2025-09-22T15:34:21.463140"
+    }
+  ]
+}
